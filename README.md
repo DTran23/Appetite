@@ -53,9 +53,9 @@ Setup twilio
 !["Appetite Map"](https://github.com/DTran23/food-order-app/blob/feature/readme/docs/appetite-map.png)
 
 ### Group Members
-Julia Moses
-Brian Shores
-Daniel Tran
+- Julia Moses
+- Brian Shores
+- Daniel Tran
 
 
 
